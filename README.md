@@ -1,6 +1,6 @@
-# **Vacuum Bot Assignment - Tilburg University**
+# **Vacuum Bot Logic Assignment - Tilburg University**
 
-This repository contains all the final files from my submission for the Vacuum Bot Logic Assignment, completed in **December 2013**. It includes Python code and a report discussing the methodologies and results. This project achieved an **8.5** grade and was part of the **Programming & Algorithm Thinking (Fall)** (**822206-B-6**) course.
+This repository contains all the final files from my submission for the Vacuum Bot Logic Assignment, completed in **December 2013**. It includes Python code and a report discussing the methodologies and results. This project achieved an **8.5** grade and was part of the **Programming & Algorithm Thinking (Fall)** course, course number **822206-B-6**.
 
 ## **Project Overview**
 
@@ -14,9 +14,10 @@ This individual assignment involved designing and testing a bot, **noStainNoGain
 
 ## **Achievements**:
 
-- Successfully solved maps up to **9-grade**.
-- Performance exceeds or equals that of **BruteBot** in all tested cases.
-- Improvements in performance on simpler maps (**6 to 9-grade**).
+- Successfully tested the bot on **50 maps**, including **6-grade**, **7-grade**, **8-grade**, and **9-grade** maps, with an energy performance of **0.76** for 6 and 7-grade, and **0.56** for 9-grade maps.
+- Performance consistently **outperformed BruteBot**, a competitor in all tested cases.
+- The bot was unable to solve **10-grade** labyrinth maps due to the lack of backtracking functionality but excelled on simpler maps (6 to 9-grade).
+- Iteratively improved the bot’s logic, though some potential enhancements were not fully implemented due to time constraints.
 
 ## **Project Structure**
 
