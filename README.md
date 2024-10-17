@@ -1,4 +1,4 @@
-# **Vacuum Bot Logic Assignment - Tilburg University**
+# **Vacuum Bot Assignment - Tilburg University**
 
 This repository contains all the final files from my submission for the Vacuum Bot Logic Assignment, completed in **December 2013**. It includes Python code and a report discussing the methodologies and results. This project achieved an **8.5** grade and was part of the **Programming & Algorithm Thinking (Fall)** course, course number **822206-B-6**.
 
